@@ -1,5 +1,7 @@
 <section id="distributed-systems-large-assignment-2" class="content">
 <h1>Distributed Systems Large Assignment 2</h1>
+This project was created as a solution to the 2nd assignment for the "Distributed systems" course at the University of Warsaw.
+
 <h3 id="atomic-disk-drive">Atomic Disk Drive</h3>
 <p>Your task is to implement a distributed block device which stores data in a distributed register. The solution shall take the form of a Rust library. A template, public tests and additional files are provided in <a href="./dsassignment2.tgz">this package</a>.</p>
 <h3 id="background">Background</h3>
